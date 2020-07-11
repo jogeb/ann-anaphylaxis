@@ -1,0 +1,5 @@
+.idea/
+target/
+register.iml
+data/output/*
+data/temp/*
